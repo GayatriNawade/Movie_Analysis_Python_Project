@@ -68,8 +68,8 @@ The main goal is to perform **Exploratory Data Analysis (EDA)** on a movie datas
 
 👩‍💻 Author
 
-Gayatri Nawade.
-📧 A Data Analysis & Visualization Project using Python
+**Gayatri Nawade** </br>
+📧 A Data Analysis & Visualization Project using Python </br>
 📅 2025 — Academic / Portfolio Project
 
 
