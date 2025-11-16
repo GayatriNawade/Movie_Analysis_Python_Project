@@ -64,3 +64,12 @@ The main goal is to perform **Exploratory Data Analysis (EDA)** on a movie datas
 - Trend line of IMDb ratings over release years.
 
 
+
+
+👩‍💻 Author
+
+Gayatri Nawade.
+📧 A Data Analysis & Visualization Project using Python
+📅 2025 — Academic / Portfolio Project
+
+
